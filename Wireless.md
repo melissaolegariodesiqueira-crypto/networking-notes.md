@@ -2,7 +2,7 @@
 
 MEANING: Consists of a way of communication using RF (Radio Frequency) waves instead of depending on physical cables. It is also important to acknowledge that LAN, WAN, and MAN describe the scope or geographic area of a network, not whether it uses cables or wireless communication. A LAN that uses Wi-Fi is called a WLAN (Wireless Local Area Network), while wireless versions of WAN and MAN are called WWAN (Wireless Wide Area Network) and WMAN (Wireless Metropolitan Area Network).
 
-![Wireless Network](images/WiredXWirelessExample.png)
+<img width="451" height="378" alt="WiredXWirelessExample" src="https://github.com/user-attachments/assets/4ce78a8a-e3de-4df4-bcd4-68601b4bb5e9" />
 
 CONCEPTS AND TERMS:
 An **Access Point (AP)** in a wireless network allows devices to communicate with the network, acting as a transmitter and receiver. 
