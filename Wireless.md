@@ -57,5 +57,5 @@ While the SSID can be the same for multiple Access Points, each BSSID is normall
 
 For example, if a school has several Access Points all using the SSID `School_WiFi`, they can all provide the same wireless network while having different BSSIDs.
 
-This allows a device to identify which specific AP it is c
+This allows a device to identify which specific AP it is currently connected to, even when multiple APs use the same SSID.
 
