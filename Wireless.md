@@ -39,7 +39,7 @@ In a standard infrastructure BSS, a single Access Point (AP) acts as the central
 
 ### Half-Duplex
 
-Wi-Fi also usually operates in half-duplex, instead of full-duplex like Ethernet over physical cables.
+Wi-Fi also usually operates mostly in half-duplex, instead of full-duplex like Ethernet over physical cables.
 
 ### SSID
 
