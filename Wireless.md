@@ -59,3 +59,24 @@ For example, if a school has several Access Points all using the SSID `School_Wi
 
 This allows a device to identify which specific AP it is currently connected to, even when multiple APs use the same SSID.
 
+**Basic Service Set (BSS)**
+
+A Basic Service Set (BSS) is a group of wireless devices that communicate within a specific 802.11 network area.
+
+In an infrastructure BSS, the devices communicate through a single Access Point (AP). The AP coordinates wireless communication and connects the wireless devices to the network.
+
+Each BSS has its own BSSID, which normally identifies the AP's wireless interface.
+
+For example, if an office has one AP providing the SSID Office_WiFi, the AP and the wireless devices associated with it form a BSS.
+
+**Extended Service Set (ESS)**
+
+An Extended Service Set (ESS) consists of two or more BSSs connected through a Distribution System (DS), allowing them to provide a larger wireless network.
+
+The BSSs can use the same SSID, while each individual BSS has a different BSSID.
+
+For example, a school may have several APs throughout the building. All APs can use the SSID School_WiFi, but each AP has a different BSSID. Together, these interconnected BSSs form an ESS, allowing users to move between coverage areas while remaining connected to the same wireless network.
+
+An ESS is commonly used in enterprise networks, schools, offices, hotels, and other large environments where multiple APs are required to provide wider Wi-Fi coverage.
+
+
