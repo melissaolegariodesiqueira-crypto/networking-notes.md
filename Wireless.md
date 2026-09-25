@@ -74,7 +74,10 @@ For example, if an office has one AP providing the SSID Office_WiFi, the AP and 
 An Extended Service Set (ESS) consists of two or more BSSs connected through a Distribution System (DS), allowing them to provide a larger wireless network.
 
 The BSSs can use the same SSID, while each individual BSS has a different BSSID.
-
 For example, a school may have several APs throughout the building. All APs can use the SSID School_WiFi, but each AP has a different BSSID. Together, these interconnected BSSs form an ESS, allowing users to move between coverage areas while remaining connected to the same wireless network.
 
 An ESS is commonly used in enterprise networks, schools, offices, hotels, and other large environments where multiple APs are required to provide wider Wi-Fi coverage.
+
+____________________________________________________________________________________________________________________________
+
+Wi-Fi is a technology that lets devices connect to a network wirelessly using radio waves
